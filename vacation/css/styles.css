@@ -1,0 +1,12 @@
+.col-md-6 {
+  background-color: red;
+  border: 5px solid blue;
+}
+
+h2 {
+  color: yellow;
+}
+
+li {
+  font-family: cursive;
+}
